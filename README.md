@@ -1,5 +1,5 @@
 # Loan-Dataset-EDA
-> Outline a brief description of your project.
+> Analyze Loan Dataset
 
 
 ## Table of Contents
